@@ -1,9 +1,11 @@
 import React from 'react';
 import './homepage.styles.scss'
+import Directory from '../../components/directory/directory.component';
 
 const Homepage=()=>(
     <div className='homepage'>
-        <div className='directory-menu'>
+        <Directory/>
+        {/* <div className='directory-menu'>
             <div className='menu-item'>
                 <div className='content'>
                     <h1 className='title'>
@@ -53,8 +55,8 @@ const Homepage=()=>(
                     <span className='subtitle'>SHOP NOW</span>
                 </div>
 
-            </div>
-        </div>
+            </div> */}
+        {/* </div> */}
     </div>
 )
 
