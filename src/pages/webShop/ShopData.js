@@ -140,7 +140,7 @@
           },
           {
             id: 21,
-            name: 'Jewellery and watches',
+            name: 'Jewellery',
             imageUrl: 'https://www.babyshop.com/images/677639/m_medium_low.jpg',
             price: 65
           },
