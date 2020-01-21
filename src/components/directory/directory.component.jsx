@@ -20,7 +20,7 @@ export class Directory extends Component {
                     title:'footwear',
                     imageUrl:'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrRSoysZJ6NgK47jZfMRF7w2ghc1nlwzNDm5-nf2eFiOTxu4l3DA&s',
                     id:2,
-                    linkUrl:''
+                    linkUrl:'footwear'
                  },
                  {
                     title:'accessories',
