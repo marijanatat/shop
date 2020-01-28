@@ -3,16 +3,17 @@
         id: 1,
         title: 'Clothing',
         routeName: 'clothing',
+        
         items: [
           {
             id: 1,
-            name: 'Bodysuits',
+            name: 'Bodysuit',
             imageUrl: 'https://cdn.shopify.com/s/files/1/0252/6884/6671/products/LB805893N_L190_1_1000x.jpg?v=1571775602',
             price: 25
           },
           {
             id: 2,
-            name: 'jackets',
+            name: 'jacket',
             imageUrl: 'https://cdn.motherandbaby.co.uk/web/1/root/winter-coats-toddlers_w555_h555.jpg',
             price: 21
           },
@@ -24,37 +25,37 @@
           },
           {
             id: 4,
-            name: 'skirts',
+            name: 'skirt',
             imageUrl: 'https://ae01.alicdn.com/kf/HTB1aqyCd3mTBuNjy1Xbq6yMrVXaR/Star-Baby-Girls-tutus-skirts-Child-Dancewear-Cute-Chiffon-Tutu-Kids-Princess-Skirt-latest-skirt-design.jpg_q50.jpg',
             price: 25
           },
           {
             id: 5,
-            name: 'Coveralls',
+            name: 'Coverall',
             imageUrl: 'http://www.innerconcepts.co.nz/images/cate_3/640/Baby-Coveralls-Rompers-Winter-Thick-Boys-Costume-Girls-Warm-Infant-Snowsuit-Baby-Wear-Newborn-Down-Apparel-Outdoor-clothing-YVJY24070-lhe0.jpg',
             price: 30
           },
           {
             id: 6,
-            name: 'Tops',
+            name: 'Top',
             imageUrl: 'https://i.pinimg.com/236x/e4/c7/a3/e4c7a3b34534ab6b5455a3e14144c974--sale-clothes-baby-art.jpg',
             price: 14
           },
           {
             id: 7,
-            name: 'Dresses',
+            name: 'Dress',
             imageUrl: 'https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdcecd753/productimages/1H555110.jpg?sw=354&sh=444',
             price: 18
           },
           {
             id: 8,
-            name: 'Shorts',
+            name: 'Short',
             imageUrl: 'https://i1.wp.com/ae01.alicdn.com/kf/HTB1RAF5mfBNTKJjy0Fdq6APpVXax/Toddler-Boys-Clothing-Set-Summer-Baby-Suit-Shorts-Shirt-1-2-3-4-Year-Children-Kid.jpg?fit=800%2C800&ssl=1',
             price: 14
           },
           {
             id: 9,
-            name: 'T-shirts',
+            name: 'T-shirt',
             imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71wP402B5NL._UX679_.jpg',
             price: 8
           }
@@ -122,25 +123,25 @@
         items: [
           {
             id: 18,
-            name: 'Hats',
+            name: 'Hat',
             imageUrl: 'https://www.babyshop.com/images/677638/m_medium_low.jpg',
             price: 12
           },
           {
             id: 19,
-            name: 'bags',
+            name: 'bag',
             imageUrl: 'https://www.babyshop.com/images/193130/campaign-big.jpg',
             price: 35
           },
           {
             id: 20,
-            name: 'hair accessories',
+            name: 'rubber band',
             imageUrl: 'https://www.babyshop.com/images/677641/m_medium_low.jpg',
             price: 9
           },
           {
             id: 21,
-            name: 'Jewellery',
+            name: 'ring',
             imageUrl: 'https://www.babyshop.com/images/677639/m_medium_low.jpg',
             price: 65
           },
