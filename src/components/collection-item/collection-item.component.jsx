@@ -27,7 +27,7 @@ import {addItem} from '../../redux/cart/cart.actions'
     
     <div className='collection-footer'>
       <span className='name'>{name}</span>
-      <span className='price'>{price}</span>
+      <span className='price'>{price}€</span>
     </div>
     {/* <Button inverted >ADD TO CART</Button> */}
    

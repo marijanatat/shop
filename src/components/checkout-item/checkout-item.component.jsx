@@ -11,6 +11,7 @@ import { addItem, removeItemFromCart } from '../../redux/cart/cart.actions';
 
 const CheckoutItem = ({ cartItem,removeItem, addItem,removeItemFromCart }) => {
     const{name, imageUrl, price, quantity}=cartItem;
+    const sum=quantity * price;
     return(
   <div className='checkout-item'>
     <div className='image-container'>
@@ -24,7 +25,7 @@ const CheckoutItem = ({ cartItem,removeItem, addItem,removeItemFromCart }) => {
         <div className='arrow' onClick={()=>addItem(cartItem)}>&#10095;</div>
         </span>
 
-    <span className='price'>{price}</span>
+<span className='price'>{sum}€</span>
     <div className='remove-button' onClick={()=>removeItem(cartItem)}>&#10005;</div>
   </div>
 );

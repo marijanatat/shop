@@ -9,55 +9,55 @@
             id: 1,
             name: 'Bodysuit',
             imageUrl: 'https://cdn.shopify.com/s/files/1/0252/6884/6671/products/LB805893N_L190_1_1000x.jpg?v=1571775602',
-            price: '25€'
+            price: 25
           },
           {
             id: 2,
             name: 'jacket',
             imageUrl: 'https://cdn.motherandbaby.co.uk/web/1/root/winter-coats-toddlers_w555_h555.jpg',
-            price: '21€'
+            price: 21
           },
           {
             id: 3,
             name: 'sleep wear',
             imageUrl: 'https://res.cloudinary.com/babylist/image/upload/f_auto,q_auto:best,c_scale,w_768/v1523379302/best_babypajamas_header_gmcubc.jpg',
-            price: '20€'
+            price: 20
           },
           {
             id: 4,
             name: 'skirt',
             imageUrl: 'https://ae01.alicdn.com/kf/HTB1aqyCd3mTBuNjy1Xbq6yMrVXaR/Star-Baby-Girls-tutus-skirts-Child-Dancewear-Cute-Chiffon-Tutu-Kids-Princess-Skirt-latest-skirt-design.jpg_q50.jpg',
-            price: '25€'
+            price: 25
           },
           {
             id: 5,
             name: 'Coverall',
             imageUrl: 'http://www.innerconcepts.co.nz/images/cate_3/640/Baby-Coveralls-Rompers-Winter-Thick-Boys-Costume-Girls-Warm-Infant-Snowsuit-Baby-Wear-Newborn-Down-Apparel-Outdoor-clothing-YVJY24070-lhe0.jpg',
-            price: '30€'
+            price: 30
           },
           {
             id: 6,
             name: 'Top',
             imageUrl: 'https://i.pinimg.com/236x/e4/c7/a3/e4c7a3b34534ab6b5455a3e14144c974--sale-clothes-baby-art.jpg',
-            price: '14€'
+            price: 14
           },
           {
             id: 7,
             name: 'Dress',
             imageUrl: 'https://www.carters.com/dw/image/v2/AAMK_PRD/on/demandware.static/-/Sites-carters_master_catalog/default/dwdcecd753/productimages/1H555110.jpg?sw=354&sh=444',
-            price: '18€'
+            price: 18
           },
           {
             id: 8,
             name: 'Short',
             imageUrl: 'https://i1.wp.com/ae01.alicdn.com/kf/HTB1RAF5mfBNTKJjy0Fdq6APpVXax/Toddler-Boys-Clothing-Set-Summer-Baby-Suit-Shorts-Shirt-1-2-3-4-Year-Children-Kid.jpg?fit=800%2C800&ssl=1',
-            price: '14€'
+            price: 14
           },
           {
             id: 9,
             name: 'T-shirt',
             imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/71wP402B5NL._UX679_.jpg',
-            price: '8€'
+            price: 8
           }
         ]
       },
@@ -70,25 +70,25 @@
             id: 10,
             name: 'boots',
             imageUrl: 'https://www.galabcn.com/197-large_default/grey-miniboots.jpg',
-            price: '50€'
+            price: 50
           },
           {
             id: 11,
             name: 'trainers',
             imageUrl: 'https://images-na.ssl-images-amazon.com/images/I/61AXIrBWMwL._UY500_.jpg',
-            price: '40€'
+            price: 40
           },
           {
             id: 12,
             name: 'Sneakers',
             imageUrl: 'https://www.babyshop.com/images/682727/m_medium_low.jpg',
-            price: '35€'
+            price: 35
           },
           {
             id: 13,
             name: 'Moccasins',
             imageUrl: 'https://www.dhresource.com/0x0/f2/albu/g10/M00/71/7B/rBVaWVxOzd-AC-O5AAESVLtz35w326.jpg',
-            price: '40€'
+            price: 40
           },
           {
             id: 14,
@@ -125,25 +125,25 @@
             id: 18,
             name: 'Hat',
             imageUrl: 'https://www.babyshop.com/images/677638/m_medium_low.jpg',
-            price: '12€'
+            price: 12
           },
           {
             id: 19,
             name: 'bag',
             imageUrl: 'https://www.babyshop.com/images/193130/campaign-big.jpg',
-            price: '35€'
+            price: 35
           },
           {
             id: 20,
             name: 'rubber band',
             imageUrl: 'https://www.babyshop.com/images/677641/m_medium_low.jpg',
-            price:'9€'
+            price:9
           },
           {
             id: 21,
             name: 'ring',
             imageUrl: 'https://www.babyshop.com/images/677639/m_medium_low.jpg',
-            price: '65€'
+            price: 65
           },
           {
             id: 22,
@@ -162,25 +162,25 @@
             id: 23,
             name: 'inglesina',
             imageUrl: 'https://www.aksa.rs/files/watermark/files/thumbs/files/images/2019/2/14/thumbs_800/thumbs_w/A02805120MISTIC20BLACK_800_800px_w.jpg',
-            price: '500€'
+            price: 500
           },
           {
             id: 24,
             name: 'chicco',
             imageUrl: 'https://www.aksa.rs/files/watermark/files/thumbs/files/images/slike_proizvoda/thumbs_800/thumbs_w/A008634-JUNGLE_800_800px_w.jpg',
-            price: '180€'
+            price: 180
           },
           {
             id: 25,
             name: 'cam',
             imageUrl: 'https://nonstopshop.rs/wp-content/uploads/2018/10/02/08/311265.jpg',
-            price: '320€'
+            price: 320
           },
           {
             id: 26,
             name: 'forpadretti',
             imageUrl: 'https://www.appcloud.gr/DomainFileStorage/BD_Letors/Products/SourceImages/13525_1_48943.JPG',
-            price: '450€'
+            price: 450
           },
           {
             id: 27,
@@ -211,25 +211,25 @@
             id: 30,
             name: 'graco',
             imageUrl: 'https://www.bebashop.rs/chest/pimg/1497520534-1.jpg',
-            price: '150€'
+            price: 150
           },
           {
             id: 31,
             name: 'chicco',
             imageUrl: 'https://www.dexy.co.rs/files/thumbs/files/images/slike_proizvoda/thumbs_1200/KPA008258_1200_1200px.jpg',
-            price: '200€'
+            price: 200
           },
           {
             id: 32,
             name: 'jungle',
             imageUrl: 'https://www.shop.dioli.co.rs/wp-content/uploads/2018/03/010665053_4.jpg',
-            price: '170€'
+            price: 170
           },
           {
             id: 33,
             name: 'cybex',
             imageUrl: 'https://www.shopper.rs/blog/wp-content/uploads/2019/02/grupa-0-i-0-sedista-400x419.jpg',
-            price: '220€'
+            price: 220
           },
           {
             id: 34,
