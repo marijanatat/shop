@@ -9,7 +9,7 @@ export class Directory extends Component {
         super(props)
     
         this.state = {
-             items:[
+             cathegories:[
                  {
                      title:'clothing',
                      imageUrl:'https://www.dhresource.com/webp/m/0x0s/f2-albu-g8-M00-42-17-rBVaVF4Vmy-AJDEcAADJPdTopHA821.jpg/boys-clothing-set-summer-2020-new-children.jpg',
@@ -65,7 +65,7 @@ export class Directory extends Component {
                     //     <MenuItem key={id} title={title} imageUrl={imageUrl} size={size} linkUrl={linkUrl}/>
                     // )
                     //     )
-                        this.state.items.map(({id,...otherItemProps})=>(
+                        this.state.cathegories.map(({id,...otherItemProps})=>(
                             <MenuItem key={id} {...otherItemProps}/>
                         )
                             )
